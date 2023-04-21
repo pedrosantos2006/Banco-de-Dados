@@ -63,6 +63,26 @@ namespace Banco_de_Dados.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bases_datos_big_data_1200x630_original {
+            get {
+                object obj = ResourceManager.GetObject("bases-datos-big-data-1200x630.original", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap gettyimages_157334670_612x612 {
+            get {
+                object obj = ResourceManager.GetObject("gettyimages-157334670-612x612", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap istockphoto_1188511715_612x612 {
             get {
                 object obj = ResourceManager.GetObject("istockphoto-1188511715-612x612", resourceCulture);

@@ -54,6 +54,7 @@
             this.TextBoxPesquisa.Name = "TextBoxPesquisa";
             this.TextBoxPesquisa.Size = new System.Drawing.Size(389, 20);
             this.TextBoxPesquisa.TabIndex = 1;
+            this.TextBoxPesquisa.TextChanged += new System.EventHandler(this.TextBoxPesquisa_TextChanged);
             // 
             // dataGridView1
             // 
@@ -76,6 +77,7 @@
             this.ButtonCadastro.TabIndex = 3;
             this.ButtonCadastro.Text = "Cadastro de Novos Dados";
             this.ButtonCadastro.UseVisualStyleBackColor = false;
+            this.ButtonCadastro.Click += new System.EventHandler(this.ButtonCadastro_Click);
             // 
             // Form1
             // 
